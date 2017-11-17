@@ -6,5 +6,5 @@
 * [План команды Paradox](https://docs.google.com/document/d/1A_xj8LEW49991LkaBIO1mP00fuNBhodSHSgQlDNwefI/edit)
 
 ## Ссылки на презентации команды:
-* [Первая презентация с подробным описанием информации о проекте](https://docs.google.com/presentation/d/1FhypulSBACC1gwKv_m8ivfvCCtFk8VqE666xVUdsii8/edit#slide=id.g29ce135b37_0_17)
+* [Первая презентация с подробным описанием информации о проекте](https://docs.google.com/presentation/d/1FhypulSBACC1gwKv_m8ivfvCCtFk8VqE666xVUdsii8/edit#slide=id.p3)
 * [Вторая презентация]()

@@ -8,4 +8,4 @@
 
 ## Ссылки на презентации команды:
 * [Первая презентация с подробным описанием информации о проекте](https://docs.google.com/presentation/d/1FhypulSBACC1gwKv_m8ivfvCCtFk8VqE666xVUdsii8/edit#slide=id.p3)
-* [Вторая презентация]()
+* [Вторая презентация](https://docs.google.com/presentation/d/1uz_xGSr2QbR6yihKNxV_7uW6u-Ym9yHR_fZy_y-8u2o/edit?usp=sharing)
